@@ -29,3 +29,4 @@ https://chromedriver.chromium.org/
 Распаковать архив в папку
 Открыть терминал в каталоге,в котором располагается каталог с тестами
 Выполнить pytest -v Kittygram
+Выполнить pytest -v Stellar_Burgers
