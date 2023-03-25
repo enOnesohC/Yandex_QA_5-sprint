@@ -13,6 +13,10 @@ pip install selenium==4.*
 
 pip install pytest
 
+Установить Selenium Tools 
+
+pip install seletools
+
 Установить chrome driver
 
 Скачать chrome driver 
