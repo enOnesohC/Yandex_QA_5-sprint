@@ -1,4 +1,4 @@
-# Yandex_QA_plus
+# Yandex_QA_5 sprint
 
 ЗАПУСК ТЕСТОВ
 
